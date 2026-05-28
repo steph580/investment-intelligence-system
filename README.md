@@ -23,6 +23,7 @@ An automated stock analysis and portfolio optimization system built in Python.
 
 ## Sample Output
 Kenya Power (KPLC) analysis identified a 40% undervaluation — DCF fair value KSh 28.46 vs market price KSh 16.95. Full report published on LinkedIn.
+Linkedin link[https://www.linkedin.com/in/stephanie-mutua-b0319a234/]
 
 ## Author
 Stephanie Mutheu Mutua — BSc Business Computing, JKUAT
